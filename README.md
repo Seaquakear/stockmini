@@ -36,5 +36,5 @@ docker push mycodenobug2/dev:4
 发布容器并映射到1213端口上运行：
 
 ```
- docker run -d -p 1213:80 mycodenobug2/dev:4
+docker run -d -p 1213:80 mycodenobug2/dev:4
 ```
