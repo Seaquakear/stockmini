@@ -31,7 +31,7 @@ npm run serve
 
 目前该工具已经发布至Docker Hub上，可以执行以下命令来拉取镜像
 ```
-docker push mycodenobug2/dev:tagname
+docker push mycodenobug2/dev:4
 ```
 发布容器并映射到1213端口上运行：
 
